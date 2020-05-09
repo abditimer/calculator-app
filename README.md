@@ -1,6 +1,7 @@
 # calculatorapp
 
-A new Flutter project to build a simple Flutter app.
+A simple flutter calculator that sums, subtracts, divides and multiples two numbers.
+![](img.png "")
 
 ## Getting Started
 
